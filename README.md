@@ -12,7 +12,7 @@
 ###
 
 <p align="left">✨ Criando bugs desde 2020</p>
-<p align="left">📚 Atualmente estou aprendendo Backend</p>
+<p align="left">📚 Atualmente estou estudando Backend</p>
 <p align="left">🎯 Objetivos: Melhorar o mundo através de bugs</p>
 <p align="left">🎲 Curiosidade: Gosto de cozinhar</p>
 
