@@ -1,4 +1,4 @@
-<h1 align="left">Olá 👋 Tudo bem?</h1>
+<h1 align="left">Olá! 👋 </h1>
 
 ###
 
@@ -22,6 +22,6 @@
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-S-Sousa&layout=compact&theme=dracula)](https://github.com/Thiago-S-Sousa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-S-Sousa&layout=donut&theme=transparent&text_color=f1f1f1&border_color=00000000)](https://github.com/Thiago-S-Sousa/github-readme-stats)
 
 ###
